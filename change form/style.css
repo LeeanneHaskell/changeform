@@ -1,0 +1,11 @@
+/***
+ADD YOUR STYLES HERE
+***/
+
+body {
+	padding: 1em;
+}
+
+.hidden {
+	display: none;
+}
